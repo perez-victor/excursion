@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    color: aquamarine;
+}
+
+p {
+    color: gray;
+}
